@@ -14,3 +14,4 @@ This project outlines my progress in computing/approximating the Integrated Info
 ### Approximations of $\phi$
  - Random Sampling of Partitions
  - Partition Type Restriction Methods: Evaluating BI/TRI Partition Networks
+ - Model to Predict if $\phi$ is nonzero
